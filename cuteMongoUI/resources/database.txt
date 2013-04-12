@@ -1,0 +1,15 @@
+Manager1
+    Lead1
+        Dev1
+        Dev2
+        Dev3
+    Lead2
+        QA1
+        QA2
+Manager2
+    Lead1
+        Dev1
+    Lead2
+    Lead3
+        QA1
+        QA2
