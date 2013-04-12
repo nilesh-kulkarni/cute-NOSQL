@@ -1,0 +1,5 @@
+1) add few menu items and make them work
+2) add cascading to the database view. (with mock data)
+3) make the application responding to events
+4) separate out the model
+ 
